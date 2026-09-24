@@ -1,0 +1,10 @@
+{
+  "name": "ai-secretary",
+  "displayName": "AI秘書スキルパック",
+  "version": "0.1.0",
+  "description": "経営者・マネージャーのためのAI秘書スキル集（MTG準備・議事録・1on1記録・読書・クリップ・記事執筆・しくみ絵本・ダウンロード整理）",
+  "author": {
+    "name": "DAIJOBU株式会社"
+  },
+  "keywords": ["ai-secretary", "meeting", "1on1", "japanese"]
+}

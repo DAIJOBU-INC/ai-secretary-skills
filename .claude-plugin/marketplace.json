@@ -1,0 +1,14 @@
+{
+  "name": "daijobu",
+  "owner": {
+    "name": "DAIJOBU株式会社"
+  },
+  "description": "DAIJOBU株式会社が配布する Claude Code 用のスキル集",
+  "plugins": [
+    {
+      "name": "ai-secretary",
+      "source": "./plugins/ai-secretary",
+      "description": "経営者・マネージャーのためのAI秘書スキル集（MTG準備・議事録・1on1記録・読書・クリップ・記事執筆・しくみ絵本・ダウンロード整理）"
+    }
+  ]
+}
