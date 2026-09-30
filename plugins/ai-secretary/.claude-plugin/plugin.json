@@ -1,7 +1,7 @@
 {
   "name": "ai-secretary",
   "displayName": "AI秘書スキルパック",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "経営者・マネージャーのためのAI秘書スキル集（朝の工程表・未返信チェック・返信下書き・MTG準備・議事録・1on1記録・壁打ち・企業カルテ・日報・週次レポートほか15本＋調査係エージェント）",
   "author": {
     "name": "DAIJOBU株式会社"
